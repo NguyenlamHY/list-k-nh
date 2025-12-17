@@ -1,611 +1,775 @@
 #EXTM3U
-#EXTINF:0,EXTINF:-1 tvg-id="tv360plus1" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
-#EXTVLCOPT:network-caching=1000
-EXTINF:-1%20tvg-id=%22tv360plus1%22%20group-title=%22TV360%22%20tvg-logo=%22https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png%22,%20TV360+1
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/2554/index.m3u8
-#EXTINF:0, TV360+2
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/1/index.m3u8
-#EXTINF:0, TV360+3
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/148/index.m3u8
-#EXTINF:0, M� K�ng
-#EXTVLCOPT:http-user-agent=taiiptvvn
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/9902/index.m3u8
-#EXTINF:0, Phim �u M#EXTVLCOPT:http-user-agent=taiiptvvn
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/9903/index.m3u8
-#EXTINF:0, VTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,VTV1
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV5
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0, VTV5 T�y Nam B#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV5 T�y Nguy�n
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV C#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, VIETNAM TODAY
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,VTV2
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 ,VTV3
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 ,VTV4
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 ,Vietnam Today
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,VTVcab1 - ON Vie Gi#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
-#EXTINF:0,VTVcab2 - ON Phim Vi#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8
-#EXTINF:0,VTVcab3 - ON Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
-#EXTINF:0,VTVcab4 - On Movies - You TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8
-#EXTINF:0,VTVcab5 - ON E-Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8
-#EXTINF:0,VTVcab6 - ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
-#EXTINF:0,VTVcab7 - On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8
-#EXTINF:0,VTVcab8 - On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8
-#EXTINF:0,VTVcab9 - ON Info TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8
-#EXTINF:0,VTVcab10 - ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/176/index.m3u8
-#EXTINF:0,VTVcab12 - ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8
-#EXTINF:0,VTVcab13 - ON Homeshopping
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/27/index.m3u8
-#EXTINF:0,VTVcab15 - On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/185/index.m3u8
-#EXTINF:0,VTVcab16 - ON Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
-#EXTINF:0,VTVcab17 - ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8
-#EXTINF:0,VTVcab18 - ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
-#EXTINF:0,VTVcab19 - ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8
-#EXTINF:0,VTVcab20 -  ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8
-#EXTINF:0,VTVcab21 - On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8
-#EXTINF:0,VTVcab22 - On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/188/index.m3u8
-#EXTINF:0,VTVcab23 -  On Golf
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8
-#EXTINF:0, SCTV1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,VTV5
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 ,VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VTV Cần Thơ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VTV7
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VTV8
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,VTV9
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
+#EXTINF:-1 ,ON Vie Giải Trí
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 ,ON Phim Việt
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,On Movies - You TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 ,ON E- Channel
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 ,On O2TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 ,On BiBi
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 ,ON Info TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 ,ON Cine
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 ,ON Style TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 ,On Music
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 ,ON TRENDING TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 ,ON Vie Dramas
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 ,ON V Family
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 ,On Kids
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 ,On Life
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 ,On Golf
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,K+CINE HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
+#EXTINF:-1 ,K+ACTION HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=KACTION&accKenh=vuminhthanh1
+#EXTINF:-1 ,K+SPORT1 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
+#EXTINF:-1 ,K+SPORT2 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=KSPORT2&accKenh=vuminhthanh1
+#EXTINF:-1 ,K+KIDS HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=KKIDS&accKenh=vuminhthanh1
+#EXTINF:-1 ,SCTV1 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
-#EXTINF:0, SCTV2 HD - TODAY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8
-#EXTINF:0, SCTV3 - SEE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
-#EXTINF:0, SCTV4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,SCTV2 HD - TODAY TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 ,SCTV3 - SEE TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 ,SCTV4 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
-#EXTINF:0, SCTV6 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,SCTV6 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, SCTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
-#EXTINF:0, SCTV8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
-#EXTINF:0, SCTV10 HD - VTV HUYNDAI HOMESHOPPING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV10/03.m3u8
-#EXTINF:0, SCTV11 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
-#EXTINF:0, SCTV12 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
-#EXTINF:0, SCTV13 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV13/03.m3u8
-#EXTINF:0, SCTV14 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
-#EXTINF:0, SCTV18 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
-#EXTINF:0, SCTV Phim T#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,SCTV7 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1 ,SCTV8 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1 ,SCTV9 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+#EXTINF:-1 ,SCTV10
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV10/index.m3u8
+#EXTINF:-1 ,SCTV11 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1 ,SCTV12 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1 ,SCTV13 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 ,SCTV14 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 ,SCTV16 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+#EXTINF:-1 ,SCTV18 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 ,SCTV19 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+#EXTINF:-1 ,SCTV20 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+#EXTINF:-1 ,SCTV21 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+#EXTINF:-1 ,:SCTV22 HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 ,SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:0, SCTV4K 
-#EXTVLCOPT:network-caching=1000
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
-#EXTINF:0, Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8
-#EXTINF:0, Hollywood Classics
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8
-#EXTINF:0, In The Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8
-#EXTINF:0, Box Hits
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8
-#EXTINF:0, Man
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8
-#EXTINF:0, Music Box
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/289/index.m3u8
-#EXTINF:0, Dr.Fit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/162/index.m3u8
-#EXTINF:0, Happy Kids
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/212/index.m3u8
-#EXTINF:0, Planet Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/135/index.m3u8
-#EXTINF:0, Woman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8
-#EXTINF:0, HTV1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/190/index.m3u8
-#EXTINF:0, HTV2 - Vie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/191/index.m3u8
-#EXTINF:0, HTV3 - Heo TV (Hplus)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/192/index.m3u8
-#EXTINF:0, HTV Key
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/9/index.m3u8
-#EXTINF:0, HTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,Box Movie 1
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Hollywood Classics
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,In The Box
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Box Hits
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Man
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Music Box
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Dr.Fit
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Happy Kids
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Planet Earth
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Woman
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=163
+#EXTINF:-1 ,HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 ,HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 ,HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 ,HTV Key - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 ,HTV7 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:0, HTV9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTV9 - Đài PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, HTV Th#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTV Thể Thao
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, HTVC Thu#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTVC Thuần Việt
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:0, HTVC Gia #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTVC Gia đình HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:0, HTVC Ph#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTVC Phụ nữ HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:0, HTVC Du l#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTVC Du lịch Cuộc sống HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, HTVC Ca nh#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,HTVC Ca nhạc HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:0, HTVC Phim HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:0, HTVC Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:0, Woman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8
-#EXTINF:0, ANTV HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,ANTV HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, QPVN HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,QPVN HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, BTV9 - An Vi�n TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0, DRT HD - B�o v� PTTH #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/51/index.m3u8
-#EXTINF:0, THP HD - B�o v� PTTH H#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1//tools/getlink/television/source/coban1/60/index.m3u8
-#EXTINF:0, THP+ HD - B�o v� PTTH H#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/9832/index.m3u8
-#EXTINF:0, C#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/47/index.m3u8
-#EXTINF:0, C#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/61/index.m3u8
-#EXTINF:0, C#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/84/index.m3u8
-#EXTINF:0, STV HD - B�o v� PTTH S#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,DRT HD - Báo và PTTH Đắk Lắk
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=51
+#EXTINF:-1 ,THP HD - Báo và PTTH Hải Phòng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/hai-phong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,THP+ HD - Báo và PTTH Hải Phòng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,Cần Thơ 1 HD - Báo và PTTH Thành Phố Cần Thơ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=47
+#EXTINF:-1 ,Cần Thơ 2 HD - Báo và PTTH Thành Phố Cần Thơ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=61
+#EXTINF:-1 ,Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#EXTINF:-1 ,STV HD - Báo và PTTH Sơn La
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
-#EXTINF:0, PTV HD - B�o v� PTTH Ph� Th#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/77/index.m3u8
-#EXTINF:0, #EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/53/index.m3u8
-#EXTINF:0, #EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/255/index.m3u8
-#EXTINF:0, #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/index.m3u8
-#EXTINF:0, H� N#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/33/index.m3u8
-#EXTINF:0, H� N#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
-#EXTINF:0, H� N#EXTVLCOPT:http-user-agent=VMTTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,PTV HD - Báo và PTTH Phú Thọ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,ĐNNRTV1 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 ,ĐNNRTV2 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 ,Hà Nội 1 HD - Đài Hà Nội
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=33
+#EXTINF:-1 ,Hà Nội 2 HD - Đài Hà Nội
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Hà Nội 2 UHD - Đài Hà Nội
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
-#EXTINF:0, H� N#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,Hà Nội 2 UHD - Đài Hà Nội (Luồng FPT PLAY)
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
-#EXTINF:0, TTV HD - B�o v� PTTH Thanh H�a
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/89/index.m3u8
-#EXTINF:0, THP3 HD - B�o v� PTTH H#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/59/index.m3u8
-#EXTINF:0, QTV1 HD - B�o v� PTTH Qu#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,TTV HD - Báo và PTTH Thanh Hóa
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:-1 ,THP3 HD - Báo và PTTH Hải Phòng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,QTV1 HD - Báo và PTTH Quảng Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
-#EXTINF:0, QTV3 HD - B�o v� PTTH Qu#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,QTV3 HD - Báo và PTTH Quảng Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:0, THVL1 HD - B�o v� PTTH V#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THVL1 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0, THVL2 HD - B�o v� PTTH V#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THVL2 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, THVL3 HD - B�o v� PTTH V#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THVL3 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, THVL4 HD - B�o v� PTTH V#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THVL4 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, THVL5 HD - B�o v� PTTH V#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/91/index.m3u8
-#EXTINF:0, ATV2 | B�o v� PTTH An Giang
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/35/index.m3u8
-#EXTINF:0, BRT - #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/94/index.m3u8
-#EXTINF:0, NBTV - B�o v� PTTH Ninh B�nh
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THVL5 HD - Báo và PTTH Vĩnh Long
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 ,ATV2 | Báo và PTTH An Giang
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,NBTV - Báo và PTTH Ninh Bình
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:0, NTV - B�o v� PTTH Ngh#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/74/index.m3u8
-#EXTINF:0, TTV2 - B�o v� PTTH T�y Ninh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/86/index.m3u8
-#EXTINF:0, CTV HD - B�o v� PTTH C� Mau
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/38/index.m3u8
-#EXTINF:0, GTV - B�o v� PTTH Gia Lai
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/55/index.m3u8
-#EXTINF:0, KTV HD - B�o v� PTTH Kh�nh H�a
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/65/index.m3u8
-#EXTINF:0, Hu#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,NTV - Báo và PTTH Nghệ An
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=74
+#EXTINF:-1 ,TTV2 - Báo và PTTH Tây Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=86
+#EXTINF:-1 ,CTV HD - Báo và PTTH Cà Mau
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=46
+#EXTINF:-1 ,GTV - Báo và PTTH Gia Lai
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/gia-lai/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,KTV HD - Báo và PTTH Khánh Hòa
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,Huế TV - Báo và PTTH Huế
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
-#EXTINF:0, TTV1 - B�o v� PTTH T�y Ninh
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/72/index.m3u8
-#EXTINF:0, TH#EXTVLCOPT:http-user-agent=ANTmedia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,TTV1 - Báo và PTTH Tây Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=72
+#EXTINF:-1 ,THĐT1 HD - Báo và PTTH Đồng Tháp
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, TH#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,THĐT2 - Báo và PTTH Đồng Tháp
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, LTV2 HD - B�o v� PTTH L�m #EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/45/index.m3u8
-#EXTINF:0, LTV3 HD - B�o v� PTTH L�m #EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8
-#EXTINF:0, #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/49/index.m3u8
-#EXTINF:0, #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/80/index.m3u8
-#EXTINF:0, ATV1 - B�o v� PTTH An Giang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,LTV2 HD - Báo và PTTH Lâm Đồng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 ,LTV3 HD - Báo và PTTH Lâm Đồng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=50
+#EXTINF:-1 ,ĐNRT1 - Báo và PTTH Đà Nẵng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 ,ĐNRT2 - Báo và PTTH Đà Nẵng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+#EXTINF:-1 ,ATV1 - Báo và PTTH An Giang
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:0, ATV3 - B�o v� PTTH An Giang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,ATV3 - Báo và PTTH An Giang
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:0, LSTV HD - B�o v� PTTH L#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,LSTV HD - Báo và PTTH Lạng Sơn
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:0, QTTV - B�o v� PTTH Qu#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/83/index.m3u8
-#EXTINF:0, BHTTV - B�o H� T#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/58/index.m3u8
-#EXTINF:0, BTV - B�o v� PTTH B#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/36/index.m3u8
-#EXTINF:0, CRTV HD - B�o Cao B#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/48/index.m3u8
-#EXTINF:0, HYTV HD - B�o v� PTTH H#EXTVLCOPT:network-caching=1000
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/64/index.m3u8
-#EXTINF:0, LTV - B�o Lai Ch�u
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, KTV1 HD - B�o v� PTTH Kh�nh H�a
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, QNgTV - B�o v� PTTH Qu#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, TTV HD - B�o v� PTTH Tuy�n Quang
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, TN - B�o v� PTTH Th�i Nguy�n
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, #EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, THLC HD - B�o v� PTTH L�o Cai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, BTV1 HD - #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, BTV2 HD - #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, LTV1 HD - B�o v� PTTH L�m #EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/hbohd/index.m3u8
-#EXTINF:0, CINEMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
-#EXTINF:0, AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/axnhd/index.m3u8
-#EXTINF:0, CINEMAWORLD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
-#EXTINF:0, ABC AUSTRALIA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
-#EXTINF:0, ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/animalhd/index.m3u8
-#EXTINF:0, AFN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/afnhd/index.m3u8
-#EXTINF:0, DISCOVERY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/discoveryhd/index.m3u8
-#EXTINF:0, DISCOVERY ASIA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
-#EXTINF:0, OUTDOOR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/outdoorhd/index.m3u8
-#EXTINF:0, CARTOON NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
-#EXTINF:0, DREAMWORKS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/dreamworks/index.m3u8
-#EXTINF:0, BBC CBEEBIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/bbccbb/index.m3u8
-#EXTINF:0, BBC LIFESTYLE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
-#EXTINF:0, BBC EARTH HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/bbcearth/index.m3u8
-#EXTINF:0, BBC NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
-#EXTINF:0, CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/cnn/index.m3u8
-#EXTINF:0, NHK WORLD JAPAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/nhkworld/index.m3u8
-#EXTINF:0, KBS WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/kbsworld/index.m3u8
-#EXTINF:0, FASHION TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/fashionhd/index.m3u8
-#EXTINF:0, DW ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/dw/index.m3u8
-#EXTINF:0, FRANCE 24H ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/france24eng/index.m3u8
-#EXTINF:0, TV5MONDE ASIE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/tv5monde/index.m3u8
-#EXTINF:0, RT NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/rt/index.m3u8
-#EXTINF:0, RT DOCUMENTARY ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/rtd/index.m3u8
-#EXTINF:0, ARIRANG WORLD HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,QTTV - Báo và PTTH Quảng Trị
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=83
+#EXTINF:-1 ,BHTTV - Báo và PTTH Hà Tĩnh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=58
+#EXTINF:-1 ,BTV - Báo và PTTH Bắc Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/bac-ninh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,CRTV HD - Báo Cao Bằng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=48
+#EXTINF:-1 ,HYTV HD - Báo và PTTH Hưng Yên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,LTV - Báo Lai Châu
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=68
+#EXTINF:-1 ,KTV1 HD - Báo và PTTH Khánh Hòa
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,QNgTV - Báo và PTTH Quảng Ngãi
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=81
+#EXTINF:-1 ,TTV HD - Báo và PTTH Tuyên Quang
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 ,TN - Báo và PTTH Thái Nguyên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=88
+#EXTINF:-1 ,ĐTV HD - Báo Điện Biên Phủ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=52
+#EXTINF:-1 ,THLC HD - Báo và PTTH Lào Cai
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=71
+#EXTINF:-1 ,LTV1 HD - Báo và PTTH Lâm Đồng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=69
+#EXTINF:-1 ,HBO
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 ,HBO Hits
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163801&extension=ts&play_token=Sb6MqPIhFx
+#EXTINF:-1 ,HBO Family
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
+#EXTINF:-1 ,HBO Signature HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
+#EXTINF:-1 ,Asian Food Network
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,Cinemax HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 ,Cinema World
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 ,Animax HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj
+#EXTINF:-1 ,Cartoonito
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=uMKoUY8Cu7
+#EXTINF:-1 ,Cartoon Network HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 ,BabyTV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
+#EXTINF:-1 ,Dreamworks
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 ,Love Nature 4K
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,BBC Earth
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+#EXTINF:-1 ,BBC Lifestyle
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
+#EXTINF:-1 ,BBC Cbeebies
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+#EXTINF:-1 ,BBC World News
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1775992&extension=ts&play_token=KEhyEZK2lr
+#EXTINF:-1 ,Arirang
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0, DA VINCI HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, WBTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
-#EXTINF:0, KIX HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0, TLC
-#EXTVLCOPT:network-caching=1000
-https://1.org.vn/tlc
-#EXTINF:0, HISTORY HD
-#EXTVLCOPT:network-caching=1000
-https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0, Bloomberg
-#EXTVLCOPT:network-caching=1000
-http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
-#EXTINF:0, CNBC
-#EXTVLCOPT:network-caching=1000
-http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
-#EXTINF:0, CNA
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,Bloomberg
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163721&extension=ts&play_token=0KHVv60c5W
+#EXTINF:-1 ,CNBC
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/131029.ts
+#EXTINF:-1 ,CNN
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163749&extension=ts&play_token=ykRIE6GwRI
+#EXTINF:-1 ,CNA
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,CGTN
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 ,CGTN Documentary
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 ,TV5Monde
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 ,DW
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 ,Da Vinci HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,France 24
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 ,KBS World
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTINF:-1 ,NHK World
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8%20
+#EXTINF:-1 ,Al Jazeera English
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:-1 ,TRT World
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 ,Animal Planet
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
+#EXTINF:-1 ,Discovery
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1 ,Discovery Asia
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
+#EXTINF:-1 ,AXN HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
+#EXTINF:-1 ,Rock Entertainment
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
+#EXTINF:-1 ,Rock Action
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776183&extension=ts&play_token=FGea90JmbI
+#EXTINF:-1 ,Outdoor Channel
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,History HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 ,DMAX
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 ,ABC Australia
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=abcaustralia&accKenh=vuminhthanh1
+#EXTINF:-1 ,Fashion TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 ,KIX HD
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,TLC
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ace.hoiquan.click/module/IPTV/?id=tlc&accKenh=vuminhthanh1
+#EXTINF:-1 ,Warner TV
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:-1 ,Celestial Movies
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302223.ts
+#EXTINF:-1 ,Clubbingtv
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302127.ts
+#EXTINF:-1 ,Filmbox
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/317770.ts
+#EXTINF:-1 ,Loupe 4K
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 ,VOV1
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://media.kythuatvov.vn:7001/;stream/
+#EXTINF:-1 ,VOV2
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://media.kythuatvov.vn:7003/;stream
+#EXTINF:-1 ,VOV3
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://media.kythuatvov.vn:7005/;stream/
+#EXTINF:-1 ,VOV4 Tây Bắc
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 ,VOV4 Đông Bắc
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.vovmedia.vn/vov4db
+#EXTINF:-1 ,VOV4 Tây Nguyên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.vovmedia.vn/vov4tn
+#EXTINF:-1 ,VOV5
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+#EXTINF:-1 ,VOV5 24/7
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1 ,VOV Giao thông Hà Nội
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 ,VOV Giao thông Hồ Chí Minh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 ,VOVGT Mekong
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
+#EXTINF:-1 ,VOH FM 99.9Mhz
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 ,VOH FM 95.6Mhz
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 ,VOH FM 87.7Mhz
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+#EXTINF:-1 ,VOH AM 610Khz
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 ,Bắc Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
+#EXTINF:-1 ,Cà Mau
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1 ,Cần Thơ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
+#EXTINF:-1 ,Đà Nẵng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
+#EXTINF:-1 ,Đắk Lắk
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
+#EXTINF:-1 ,Đồng Nai
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+#EXTINF:-1 ,Đồng Tháp
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://64d0d74b76158.streamlock.net/THDTR/thdtradio/chunklist.m3u8
+#EXTINF:-1 ,Hà Nội FM 90
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/360/9905/index.m3u8
+#EXTINF:-1 ,Hà Nội FM 96
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/360/9906/index.m3u8
+#EXTINF:-1 ,Hà Tĩnh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+#EXTINF:-1 ,Hưng Yên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://103.90.220.236/hytvlive/radio.m3u8
+#EXTINF:-1 ,Khánh Hòa
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1 ,An Giang FM 99 - 4 Mhz
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
+#EXTINF:-1 ,Lâm Đồng
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+#EXTINF:-1 ,Lạng Sơn
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://103.90.220.236/lstvlive/radio-transmux.m3u8
+#EXTINF:-1 ,Nghệ An
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+#EXTINF:-1 ,Ninh Bình
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
+#EXTINF:-1 ,QNR1 - Quảng Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://103.90.220.236/qtvlive/qnr1.m3u8
+#EXTINF:-1 ,QNR2 - Quảng Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://103.90.220.236/qtvlive/qnr2.m3u8
+#EXTINF:-1 ,Sơn La
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://103.90.220.236/sltvlive/radio-transmux.m3u8
+#EXTINF:-1 ,Thừa Thiên Huế
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
+#EXTINF:-1 ,Thái Nguyên
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
+#EXTINF:-1 ,Tây Ninh
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
+#EXTINF:-1 ,M Radio Việt Nam
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1 ,Cải Lương Việt Nam
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:-1 ,Radio Nhạc Vàng Xưa
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/x2z45v7d84zuv
+#EXTINF:-1 ,Radio DJ
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/ehbutdfccm0uv
+#EXTINF:-1 ,Radio Phật Giáo
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/8456uy0bcm0uv
+#EXTINF:-1 ,Radio Nhạc Dân Ca
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.zeno.fm/a2dbs2tq1p8uv
+#EXTINF:-1 ,VOH FM 99.9
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
+#EXTINF:-1 ,VOH FM 95.6
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
+#EXTINF:-1 ,VOH AM 610
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
+#EXTINF:-1 ,CNN (SV2)
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
+#EXTINF:-1 ,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png" -  KISS FM UK
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s.net.vn/KISS-FM-UK
+#EXTINF:-1 ,Hits Radio UK
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1 ,CJB SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 ,TJB SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1 ,KBC SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,UBC SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 ,KNN SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 ,JTV SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 ,G1 SBS
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 ,MBC
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 ,MBC Andong
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 ,MBC Busan
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 ,MBC Chuncheon
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 ,MBC Chungbuk
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,MBC Daegu
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 ,MBC Jeju
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 ,MBC Mokpo
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 ,MBC Ulsan
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 ,MBC Yeosu
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 ,EBS1
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS2
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS E
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS Kids
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS+1
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,EBS+2
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,TV Chosun
+#EXTVLCOPT:http-referrerhttp://broadcast.tvchosun.com/onair/on.cstv
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 ,TV Chosun 2
+#EXTVLCOPT:http-referrerhttp://broadcast.tvchosun.com/onair/on.cstv
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 ,TVN
+#EXTVLCOPT:http-referrerhttp://broadcast.tvchosun.com/onair/on2.cstv
+#EXTVLCOPT:http-user-agentMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
